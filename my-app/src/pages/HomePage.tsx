@@ -14,7 +14,7 @@ const HomePage = () => {
 
   return (
     <>
-      <div className="bg-amber-900">
+      <div className="bg-teal-900">
         <h2>Ar dalyvausi?</h2>
         <p> Dalyvaus: {participants}</p>
         <p> Nedalyvaus: {nonParticipants}</p>
